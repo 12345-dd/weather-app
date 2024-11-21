@@ -1,0 +1,8 @@
+.boxContainer{
+    display: flex;
+    justify-content: center;
+}
+
+.searchBox{
+    margin-bottom: 50px;
+}
